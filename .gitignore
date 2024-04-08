@@ -1,0 +1,14 @@
+.DS_Store
+npm-debug.log
+Thumbs.db
+node_modules/
+out/
+.vscode
+tsconfig.lsif.json
+*.lsif
+*.db
+
+//extension file
+*.vsix
+
+package-lock.json
